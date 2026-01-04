@@ -40,7 +40,6 @@ Copy code
 - HTML
 - CSS
 - JavaScript
-- (Framework/library if applicable)
 
 ### Backend
 - Node.js
